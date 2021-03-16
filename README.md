@@ -1,3 +1,4 @@
 # Teste unitário - Jest
  
- ## ⚙ Função que tira média entre dois números e faz um teste unitário utilizando a sintaxe do Jest
+ ## ⚙ Function that averages between two numbers and makes a unit test using the syntax of Jest
+
